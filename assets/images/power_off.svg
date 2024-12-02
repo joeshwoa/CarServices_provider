@@ -1,0 +1,10 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="flash_off">
+<mask id="mask0_108_2906" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<rect id="Bounding box" width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_108_2906)">
+<path id="flash_off_2" d="M6.88296 2.5625H13.2484L12.2708 6.21956H15.6907L12.9535 10.3446L12.0464 9.45833L13.4439 7.4279H10.3525L10.6266 7.70192L11.6875 3.77083H8.09132V5.48237L6.88296 4.27404V2.5625ZM9.06246 16.2468V11.1458H6.88296V8.05129L2.36694 3.53525L3.21151 2.69071L17.1634 16.6635L16.3189 17.508L11.4294 12.6186L9.06246 16.2468Z" fill="#00A9DF"/>
+</g>
+</g>
+</svg>

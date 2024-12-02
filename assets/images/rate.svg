@@ -1,0 +1,32 @@
+<svg width="85" height="20" viewBox="0 0 85 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_284_3226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<rect width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_284_3226)">
+<path d="M5.68753 16.1347L6.83976 11.3062L3.0177 8.05783L8.03047 7.62196L9.99999 3.06592L11.9695 7.64279L16.9823 8.05783L13.1602 11.3062L14.3124 16.1347L9.99999 13.5738L5.68753 16.1347Z" fill="#00A9DF"/>
+</g>
+<mask id="mask1_284_3226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="17" y="0" width="20" height="20">
+<rect x="17" width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_284_3226)">
+<path d="M22.6875 16.1347L23.8398 11.3062L20.0177 8.05783L25.0305 7.62196L27 3.06592L28.9695 7.64279L33.9823 8.05783L30.1602 11.3062L31.3124 16.1347L27 13.5738L22.6875 16.1347Z" fill="#00A9DF"/>
+</g>
+<mask id="mask2_284_3226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="34" y="0" width="20" height="20">
+<rect x="34" width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_284_3226)">
+<path d="M39.6875 16.1347L40.8398 11.3062L37.0177 8.05783L42.0305 7.62196L44 3.06592L45.9695 7.64279L50.9823 8.05783L47.1602 11.3062L48.3124 16.1347L44 13.5738L39.6875 16.1347Z" fill="#00A9DF"/>
+</g>
+<mask id="mask3_284_3226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="51" y="0" width="20" height="20">
+<rect x="51" width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_284_3226)">
+<path d="M56.6875 16.1347L57.8398 11.3062L54.0177 8.05783L59.0305 7.62196L61 3.06592L62.9695 7.64279L67.9823 8.05783L64.1602 11.3062L65.3124 16.1347L61 13.5738L56.6875 16.1347Z" fill="#00A9DF"/>
+</g>
+<mask id="mask4_284_3226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="68" y="0" width="20" height="20">
+<rect x="68" width="20" height="20" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask4_284_3226)">
+<path d="M80.6875 13.896L79.9792 10.896L82.2917 8.91679L79.2292 8.64596L78 5.79179V12.3126L80.6875 13.896ZM73.6875 16.1347L74.8398 11.3062L71.0177 8.05783L76.0305 7.62196L78 3.06592L79.9695 7.64279L84.9823 8.05783L81.1602 11.3062L82.3124 16.1347L78 13.5738L73.6875 16.1347Z" fill="#00A9DF"/>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772025988490",
+    "project_id": "autoflex-7b32d",
+    "storage_bucket": "autoflex-7b32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772025988490:android:4a07e22b04941b8ab28473",
+        "android_client_info": {
+          "package_name": "com.example.autoflex_provider_worker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOifBnuZXcTXwluowb-jmULjwTvIqRmvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
